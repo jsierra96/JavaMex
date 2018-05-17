@@ -1,0 +1,5 @@
+metodo principal (args[]){
+entero resultado;
+operacion resultado=4+5+10;
+imprime "la suma es", resultado;
+}

@@ -1,0 +1,9 @@
+metodo principal (args[]){
+entero var1;
+entero var2;
+entero var3;
+lectura var1="dame un entero";
+lectura var2="dame otro entero";
+operacion var3=var1+var2;
+imprime "resultado es", var3
+}

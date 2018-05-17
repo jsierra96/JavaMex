@@ -1,0 +1,5 @@
+metodo principal (args[]){
+entero num1;
+lectura num1="dame un entero";
+imprime "el numero es", num1;
+}

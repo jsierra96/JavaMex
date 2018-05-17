@@ -1,0 +1,9 @@
+metodo principal(args[]){
+decimal num1;
+decimal num2;
+decimal re;
+lectura num1="dame un flotante";
+lectura num2="dame otro flotante";
+operacion re=num1*num2;
+imprime "resultado es", re;
+}
